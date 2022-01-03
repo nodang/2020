@@ -1,0 +1,5 @@
+---- add Matches (4 in 1 files) ----
+F2808.cmd (main):// add the header linker command file directly to the project. 
+F2808.cmd (main):// For BIOS applications add:      DSP280x_Headers_BIOS.cmd
+F2808.cmd (main):// For nonBIOS applications add:   DSP280x_Headers_nonBIOS.cmd    
+F2808.cmd (main):/* 2) In your project add the path to <base>\DSP280x_headers\cmd to the
